@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner](https://github.com/ArshAliAzam/ArshAliAzam/edit/main/README.md.gif?raw=true)
 
 <!--
 **ArshAliAzam/ArshAliAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
