@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Blue Futuristic Technology Linkedln Banner](https://github.com/user-attachments/assets/f5f8f3a8-e486-44c9-8c78-f03e30223fd6)
-https://lottie.host/9ceccda8-221f-4df6-b916-6f8c52dd91cb/3zrbWHYrk6.lottie
+
+https://github.com/user-attachments/assets/c229348f-d836-40b9-ac3d-613128f31438
+
 
 <!--
 **ArshAliAzam/ArshAliAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
