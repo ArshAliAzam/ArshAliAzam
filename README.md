@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Blue Futuristic Technology Linkedln Banner](https://github.com/user-attachments/assets/f5f8f3a8-e486-44c9-8c78-f03e30223fd6)
 
-![Animation](https://github.com/user-attachments/assets/c229348f-d836-40b9-ac3d-613128f31438)
+![Video](https://github.com/user-attachments/assets/c229348f-d836-40b9-ac3d-613128f31438)
 
 
 <!--
