@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Banner](https://github.com/ArshAliAzam/ArshAliAzam/edit/main/README.md.gif?raw=true)
+![Blue Futuristic Technology Linkedln Banner](https://github.com/user-attachments/assets/f5f8f3a8-e486-44c9-8c78-f03e30223fd6)
+
 
 <!--
 **ArshAliAzam/ArshAliAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
