@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello Everyone 👋
 ![Blue Futuristic Technology Linkedln Banner](https://github.com/user-attachments/assets/f5f8f3a8-e486-44c9-8c78-f03e30223fd6)
-##🐍 Beginner Python Projects
+# 🐍 Beginner Python Projects
 Welcome to my Python playground!
 This repository is a collection of small projects, practice scripts, and code experiments as I learn and grow with Python. Whether it's basic syntax, loops, functions, or beginner-level challenges, it's all here!
 
