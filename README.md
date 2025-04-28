@@ -1,5 +1,7 @@
 ## Hello Everyone 👋
-![Blue Futuristic Technology Linkedln Banner](https://github.com/user-attachments/assets/f5f8f3a8-e486-44c9-8c78-f03e30223fd6)
+
+![Black Minimalist Corporate Business Personal Profile LinkedIn Banner3](https://github.com/user-attachments/assets/3f7e50e3-ef33-4a70-a42d-b01a3ee335c2)
+
 # 🐍 Beginner Python Projects
 Welcome to my Python playground!
 This repository is a collection of small projects, practice scripts, and code experiments as I learn and grow with Python. Whether it's basic syntax, loops, functions, or beginner-level challenges, it's all here!
