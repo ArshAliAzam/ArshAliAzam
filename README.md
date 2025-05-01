@@ -1,7 +1,7 @@
 ## Hello Everyone 👋
 
 ![Black Minimalist Corporate Business Personal Profile LinkedIn Banner3](https://github.com/user-attachments/assets/3f7e50e3-ef33-4a70-a42d-b01a3ee335c2)
-![Untitled design4](https://github.com/user-attachments/assets/1f152cbd-2fd9-4e3c-bd61-0d0c6689ed36)
+
 
 # 🐍 Beginner Python Projects
 Welcome to my Python playground!
